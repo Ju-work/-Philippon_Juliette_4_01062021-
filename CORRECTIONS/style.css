@@ -101,6 +101,7 @@ a:hover {
 
 .d-bloc {
   color: rgba(255, 255, 255, 0.7);
+  display: flex;
 }
 
 .d-bloc button:hover {
@@ -340,7 +341,7 @@ a:hover {
 
 .navbar .nav {
   padding-top: 2px;
-  margin-right: -16px;
+  margin-right: 10%;
   float: right;
 }
 
